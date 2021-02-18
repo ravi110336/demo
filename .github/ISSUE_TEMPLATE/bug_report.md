@@ -1,3 +1,9 @@
+---
+name: Bug report
+about: Create a report to help us improve
+labels: bug
+---
+
 <!-- Before filling this issue, please read the wiki (https://github.com/eclipse/sw360/wiki)
 and search if the bug do not already exists in the issues (https://github.com//eclipse/sw360/issues). -->
 
