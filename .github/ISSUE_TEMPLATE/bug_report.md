@@ -10,6 +10,7 @@ labels: bug
 [//]: # (which is available at https://www.eclipse.org/legal/epl-2.0/)
 [//]: # (SPDX-License-Identifier: EPL-2.0)
 
+
 <!-- Before filling this issue, please read the wiki (https://github.com/eclipse/sw360/wiki)
 and search if the bug do not already exists in the issues (https://github.com//eclipse/sw360/issues). -->
 
@@ -45,4 +46,5 @@ Logs generated under /var/log/tomcat/error.log
 #### Job logs
 
 Logs generated under Geeky Scan Details (Job history => click on agent's job id)
+
 
